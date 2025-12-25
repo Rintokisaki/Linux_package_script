@@ -41,13 +41,3 @@ For each package in the list:
 2. If installed, skip it
 3. If available in pacman repositories (`pacman -Si`), install via pacman
 4. Otherwise, install from the AUR using yay
-
----
-
-## Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/unified-package-installer.git
-cd unified-package-installer
