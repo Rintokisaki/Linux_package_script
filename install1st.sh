@@ -25,6 +25,11 @@ PACKAGES=(
         dirb
         subfinder
         crunch
+	gobuster
+	ghidra
+	visual-studio-code-bin  
+	openvpn
+	plex-media-server  
 
 )
 
